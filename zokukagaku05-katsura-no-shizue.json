@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/katsura-no-shizue",
  "yomi": "かつらのしずえ",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌学書（抄録）",
+  "era": "未詳",
+  "author": "香川景樹（1768〜1843）の説",
+  "desc": "香川景樹の歌の説を、「折々草」の抄や門人への答問書などから集めたもの。「しきしまの道」の名義などを問答の形で説く。"
+ },
  "editions": [
   {
    "pid": "993383",
